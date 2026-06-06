@@ -100,11 +100,6 @@ Then, navigate to `http://localhost:8000` in your browser to open the game.
 - **Making a Move**: Click on an empty cell to place your mark (Player 1 or Player 2).
 - **Turn Management**: The game will prompt the current player's turn in the UI.
 
-## License
-
-This project is for the Hitwicket coding challenge and is intended for educational purposes. Feel free to use and modify the code as needed.
-```
-
 ### How to Use This `README.md` File:
 
 1. Replace `<your-repo-url>` with the actual URL of your GitHub repository.
