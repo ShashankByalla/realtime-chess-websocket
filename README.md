@@ -1,6 +1,6 @@
 # Hitwicket-game
 ```markdown
-# Hitwicket Turn-Based Chess-like Game
+# realtime-chess-websocket Turn-Based Chess-like Game
 
 This project is a turn-based chess-like game developed as part of the Hitwicket coding challenge. The game uses a server-client architecture with WebSocket-based real-time communication. The server is implemented using Python and Flask, and the client is a simple HTML page.
 
@@ -17,7 +17,7 @@ This project is a turn-based chess-like game developed as part of the Hitwicket 
 ## Project Structure
 
 ```
-hitwicket-game/
+realtime-chess-websocket/
 │
 ├── client/
 │   └── index.html            # Frontend code for the game
@@ -46,8 +46,8 @@ hitwicket-game/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd hitwicket-game
+git clone https://github.com/ShashankByalla/realtime-chess-websocket.git
+cd realtime-chess-websocket
 ```
 
 ### 2. Set Up the Python Virtual Environment
